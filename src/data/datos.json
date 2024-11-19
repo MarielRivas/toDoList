@@ -1,0 +1,5 @@
+[
+    {"indice":0, "titulo": "Titulo 1", "actividad":"descripcion Actividad 1", "estatus":true, "fecha":"DD/MM/AAAA"},
+    {"indice":1, "titulo": "Titulo 2", "actividad":"descripcion Actividad 2", "estatus":false, "fecha":"DD/MM/AAAA"},
+    {"indice":2, "titulo": "Titulo 3", "actividad":"descripcion Actividad 3", "estatus":true, "fecha":"DD/MM/AAAA"}
+]

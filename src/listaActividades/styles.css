@@ -1,0 +1,23 @@
+.imagenList {
+    box-sizing:border-box;
+    width:100%;
+    height:100%;
+    margin:10px;
+    margin-right:70px;    
+}
+.divLateral{
+    border-radius:8px;
+    padding:10px;
+    display:flex;
+    flex-direction:row;
+    background-color:#D1E8E2;
+    align-items:center;
+    margin:10px;
+    cursor:pointer;
+    text-align: left;
+}
+
+.divImg{
+    width:40px;
+    margin-right:20px;
+}
